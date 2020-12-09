@@ -9,6 +9,9 @@
 
 # dependencies
 /node_modules
+/Appointments/Appointments.Api/packages
+/Appointments/Appointments.Api/DB/Appointments.mdf
+/Appointments/Appointments.Api/DB/Appointments.ldf
 
 # profiling files
 chrome-profiler-events*.json

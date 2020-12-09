@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[DLMapping]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+	[dlId] INT NOT NULL,
+	[userId] INT NOT NULL
+)
